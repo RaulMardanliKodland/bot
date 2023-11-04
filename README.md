@@ -36,5 +36,5 @@ async def mem(ctx):
 
 
 
-bot.run("MTE2MjcxNzgyNTYxMDMwMTU1MA.GVkHeL.2Xi32CcUQcVoKA9J12f5DFj8IqPZNR5whKxWXA")
+bot.run("")
 
